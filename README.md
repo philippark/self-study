@@ -8,6 +8,11 @@ A running log of things I'm learning to build strong core software engineering s
 
 > Generic skills that are transferrable to any sort of software work I do
 
+### C++ Programming
+|Resource|Progress|
+|---|---|
+|[something](link)|⬜|
+
 ### Python Programming
 
 |Resource|Progress|
