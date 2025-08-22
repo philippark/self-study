@@ -13,28 +13,36 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[something](link)|⬜|
 
+<!--
 ### Linux & Command Line
 
 |Resource|Progress|
 |---|---|
+-->
 
 ### Production System Design
 
 |Resource|Progress|
 |---|---|
+|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|⬜|
 
+
+<!--
 ### Maths
 	
 |Resource|Progress|
 |---|---|
+-->
 
 ## Specialization
 <hr>
 
+<!--
 ### Traditional Machine Learning
 
 |Resource|Progress|
 |---|---|
+-->
 
 ### Misc AI/ML
 
@@ -46,7 +54,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Crafting Interpreters]()|⬜|
+|[Crafting Interpreters - Rob Nystrom]()|⬜|
 
 
 ## Technical Skills (Libraries/Frameworks/Tools)
