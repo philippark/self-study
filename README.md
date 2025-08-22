@@ -36,4 +36,10 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 
+### Misc AI/ML
+
+|Resource|Progress|
+|---|---|
+|[How I use LLMS - Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1097s)|⬜|
+
 ## Technical Skills (Libraries/Frameworks/Tools)
