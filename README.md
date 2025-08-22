@@ -42,4 +42,11 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[How I use LLMS - Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1097s)|⬜|
 
+### Programming Languages / Compilers
+
+|Resource|Progress|
+|---|---|
+|[Crafting Interpreters]()|⬜|
+
+
 ## Technical Skills (Libraries/Frameworks/Tools)
