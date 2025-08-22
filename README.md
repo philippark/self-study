@@ -2,7 +2,7 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-**Updated**: Once a month | **Current** **Focus**: Generative AI
+**Updated**: Once a week | **Current** **Focus**: Exploring
 
 ## Core Skills
 
@@ -24,7 +24,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|⬜|
+|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|1/16|
 
 
 <!--
@@ -57,6 +57,12 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Crafting Interpreters - Rob Nystrom]()|⬜|
+
+### Operating Systems
+
+|Resource|Progress|
+|---|---|
+|[OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)|18/57|
 
 
 ## Technical Skills (Libraries/Frameworks/Tools)
