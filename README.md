@@ -44,11 +44,13 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 -->
 
-### Misc AI/ML
+### AI/ML Articles / Videos
 
 |Resource|Progress|
 |---|---|
 |[How I use LLMS - Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1097s)|⬜|
+|[Urgency of Interpretability - Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability)|✅|
+|[Machines of Loving Grace - Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace)|✅|
 
 ### Programming Languages / Compilers
 
