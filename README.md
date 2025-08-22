@@ -2,16 +2,18 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-**Updated**: Once a week | **Current** **Focus**: Exploring
+**Updated**: Once a week. Aiming for Sundays. | **Current** **Focus**: Low level with a mix of ML
 
 ## Core Skills
 
 > Generic skills that are transferrable to any sort of software work I do
 
+<!--
 ### C++ Programming
 |Resource|Progress|
 |---|---|
 |[something](link)|⬜|
+-->
 
 <!--
 ### Linux & Command Line
@@ -43,6 +45,13 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 -->
+
+### Traditional Machine Learning
+
+|Resource|Progress|
+|---|---|
+|[A Course in Machine Learning](http://ciml.info/)|0/19|
+|[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|0/14|
 
 ### AI/ML Articles / Videos
 
