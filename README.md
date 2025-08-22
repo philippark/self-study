@@ -27,6 +27,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|1/16|
+|[Designing Data-Intensive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)|⬜|
 
 
 <!--
