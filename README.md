@@ -45,7 +45,6 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[A Course in Machine Learning](http://ciml.info/)|2/19|
 |[Kaggle: Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)|⬜|
-
 |[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|⬜|
 
 ### AI/ML Articles / Videos
