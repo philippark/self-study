@@ -2,8 +2,6 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of adjacent technologies a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-Github Repo: [Self-study](https://github.com/philippark/self-study)
-
 Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 
 ## Core Skills
