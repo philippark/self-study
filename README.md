@@ -26,7 +26,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 
 |Resource|Progress|
 |---|---|
-|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|8/16|
+|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|10/16|
 |[Designing Data-Intensive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)|⬜|
 |[Design Patterns](https://www.javier8a.com/itc/bd1/articulo.pdf)|⬜|
 
@@ -64,7 +64,8 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 
 |Resource|Progress|
 |---|---|
-|[Crafting Interpreters - Rob Nystrom]()|[JLox](https://github.com/philippark/jlox)|
+|[Crafting Interpreters - Rob Nystrom]()|[UtopiaScript](https://github.com/philippark/utopiascript)|
+|[Crafting Interpreters - Rob Nystrom]()|[Woogle](https://github.com/philippark/woogle)|
 |[Programming Language Pragmatics 4th Edition]()|[⬜]|
 
 ### Operating Systems
