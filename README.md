@@ -41,6 +41,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 ## Specialization
 <hr>
 
+<!--
 ### Traditional Machine Learning
 
 |Resource|Progress|
@@ -49,6 +50,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |[Kaggle: Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)|✅|
 |[Kaggle: Intermediate ML](https://www.kaggle.com/learn/intro-to-machine-learning)|2/7|
 |[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|⬜|
+-->
 
 <!--
 ### AI/ML Articles / Videos
