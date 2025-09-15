@@ -83,6 +83,12 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |---|---|
 |[Computer Architecture: A Quantitative Approach]()|⬜|
 
+### Networking
+
+|Resource|Progress|
+|---|---|
+|[Beej's Guide to Network Concepts]()|45/190|
+
 <!--
 ## Technical Skills (Libraries/Frameworks/Tools)
 -->
