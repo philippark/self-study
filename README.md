@@ -48,7 +48,8 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |---|---|
 |[A Course in Machine Learning](http://ciml.info/)|2/19|
 |[Kaggle: Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)|✅|
-|[Kaggle: Intermediate ML](https://www.kaggle.com/learn/intro-to-machine-learning)|2/7|
+|[Kaggle: Intermediate ML](https://www.kaggle.com/learn/intro-to-machine-learning)|6/7|
+|[Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)|1/6|
 |[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|⬜|
 -->
 
@@ -69,6 +70,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |[Crafting Interpreters - Rob Nystrom]()|[UtopiaScript](https://github.com/philippark/utopiascript)|
 |[Crafting Interpreters - Rob Nystrom]()|[Woogle](https://github.com/philippark/woogle)|
 |[Programming Language Pragmatics 4th Edition]()|[⬜]|
+|[Compiler Design [Youtube]](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)|[9/42]|
 
 ### Operating Systems
 
@@ -89,7 +91,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 
 |Resource|Progress|
 |---|---|
-|[Beej's Guide to Network Concepts]()|45/190|
+|[Beej's Guide to Network Concepts]()|77/190|
 
 <!--
 ## Technical Skills (Libraries/Frameworks/Tools)
